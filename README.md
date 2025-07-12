@@ -4,12 +4,6 @@ A command-line cryptocurrency exchange simulator written in C++. The program ena
 
 ---
 
-## 🔗 Live Preview
-
-
-
----
-
 ## 🚀 Features
 
 - View historical cryptocurrency exchange data
